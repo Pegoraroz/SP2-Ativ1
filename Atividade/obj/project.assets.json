@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\pegoraro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/sp2-ativ1/Atividade/Atividade.csproj",
+      "projectUniqueName": "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\Atividade.csproj",
       "projectName": "Atividade",
-      "projectPath": "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/sp2-ativ1/Atividade/Atividade.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/sp2-ativ1/Atividade/obj/",
+      "projectPath": "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\Atividade.csproj",
+      "packagesPath": "C:\\Users\\pegoraro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\pegoraro\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
