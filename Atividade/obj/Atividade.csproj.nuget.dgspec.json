@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\Atividade.csproj": {}
+    "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/Atividade/Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\Atividade.csproj": {
+    "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/Atividade/Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/Atividade/Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\Atividade.csproj",
-        "packagesPath": "C:\\Users\\pegoraro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pegoraro\\Documents\\Git\\sp2-ativ1\\Atividade\\obj\\",
+        "projectPath": "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/Atividade/Atividade.csproj",
+        "packagesPath": "/home/pegoraro/.nuget/packages/",
+        "outputPath": "/home/pegoraro/Documentos/vscode/GitHub/SP2-Ativ1/Atividade/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pegoraro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/pegoraro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
         }
       }
     }
